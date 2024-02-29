@@ -1,0 +1,14 @@
+fastapi==0.99.0
+psycopg2-binary
+pydantic
+SQLAlchemy
+typing-extensions
+uvicorn
+sendgrid
+boto3
+mangum
+aiobotocore==2.11.2
+botocore==1.33.2
+pydantic-core
+python-jose
+passlib
